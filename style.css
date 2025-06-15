@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 50px;
+  color: #fff;
+  background: #333;
+}
+
+h1 {
+  color: #ffcc5b;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.download-button {
+  padding: 15px 30px;
+  background: #ffcc5b;
+  color: #000;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.5);
+  transition: background 0.3s ease;
+}
+
+.download-button:hover {
+  background: #ffa500;
+}
